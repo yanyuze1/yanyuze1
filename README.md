@@ -1,6 +1,6 @@
 <h2 align="center">Hi there 👋！I‘m Ercong Huang（黄尔聪）</h2>
 
-# 🌱About Me
+## 🌱About Me
 - 🤔 GLUT(Robotics Engineering)
 - 🔭 Robot software，Robot Control，RL，VLN，etc
 - 🚀 Open source supporter
