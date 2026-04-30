@@ -1,4 +1,11 @@
-## Hi there 👋！I‘m Ercong Huang（黄尔聪）
+<h2 align="center">Hi there 👋！I‘m Ercong Huang（黄尔聪）</h2>
+
+# 🌱About Me
+- 🤔 GLUT(Robotics Engineering)
+- 🔭 Robot software，Robot Control，RL，VLN，etc
+- 🚀 Open source supporter
+- 📫 You can look my blog in [GYH.AI]([https://github.com/dfl-rlab/dddmr_navigation/blob/main/src/dddmr_beginner_guide/README.md](https://www.guyuehome.com/member))
+
 
 <!--
 **yanyuze1/yanyuze1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
