@@ -4,7 +4,7 @@
 - 🤔 GLUT(Robotics Engineering)
 - 🔭 Robot software，Robot Control，RL，VLN，etc
 - 🚀 Open source supporter
-- 📫 You can look my blog in [GYH.AI]([https://github.com/dfl-rlab/dddmr_navigation/blob/main/src/dddmr_beginner_guide/README.md](https://www.guyuehome.com/member))
+- 📫 You can look my blog in [GYH.AI](https://www.guyuehome.com/member)
 
 
 <!--
