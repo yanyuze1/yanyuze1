@@ -1,7 +1,7 @@
 <h2 align="center">Hi there 👋！I‘m Ercong Huang（黄尔聪）</h2>
 
 ## 🌱About Me
-- 🤔 GLUT(Robotics Engineering)
+- 🤔 GLUT(Robotics Engineering)，Agilex(Engineer)
 - 🔭 Robot software，Robot Control，RL，VLN，etc
 - 🚀 Open source supporter
 - 📫 You can look my blog in [GYH.AI](https://www.guyuehome.com/member)
