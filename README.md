@@ -4,7 +4,7 @@
 - 🤔 GLUT(Robotics Engineering)，Agilex(Engineer)
 - 🔭 Robot software，Robot Control，RL，VLN，etc
 - 🚀 Open source supporter
-- 📫 You can look my blog in [GYH.AI](https://www.guyuehome.com/member)
+- 📫 You can look my blog in [GYH.AI](https://www.guyuehome.com),I have documented a lot of the Unitree GO2 development process and related projects on this website, and you can also find plenty of related content on my [Feishu](https://my.feishu.cn/drive/folder/Ur2tfTveTlji32dKoWoc42BSnfc). However, there is still a lot of material that has not yet been organized and published.
 
 
 <!--
