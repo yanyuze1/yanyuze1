@@ -6,7 +6,7 @@
 - 🚀 Open source supporter
 - 📫 You can look my blog in [GYH.AI](https://www.guyuehome.com)，my name is 研语,I have documented a lot of the Unitree GO2 development process and related projects on this website, and you can also find plenty of related content on my [Feishu](https://my.feishu.cn/drive/folder/Ur2tfTveTlji32dKoWoc42BSnfc). However, there is still a lot of material that has not yet been organized and published.
   
-<img width="512" height="512" alt="2319335653033695607" src="https://github.com/user-attachments/assets/418e0027-669a-4e52-b4e4-fe172dbaa478" />
+<center><img width="256" height="256" alt="2319335653033695607" src="https://github.com/user-attachments/assets/418e0027-669a-4e52-b4e4-fe172dbaa478" /></center>
 
 
 <!--
