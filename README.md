@@ -1,6 +1,7 @@
 <h2 align="center">Hi there 👋！I‘m Ercong Huang（黄尔聪）</h2>
 
 ## 🌱About Me
+- ✨ 24 years old(02-10-16)
 - 🤔 GLUT(Robotics Engineering)，Agilex(Engineer)
 - 🔭 Robot software，Robot Control，RL，Navigation，Robot arm，etc
 - 🚀 Open source supporter
